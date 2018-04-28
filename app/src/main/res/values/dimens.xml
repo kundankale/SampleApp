@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">32sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">5dp</dimen>
+    <dimen name="album_cover_height">160dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">18sp</dimen>
+    <dimen name="price_padding_bottom">5dp</dimen>
+    <dimen name="price_count">12dp</dimen>
+</resources>

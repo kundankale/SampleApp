@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task_Kundan_Kale</string>
+    <string name="create_text">CREATE NEW ITEM</string>
+    <string name="enter_item_detail">Please enter Item Details</string>
+    <string name="flash_auto">Flash auto</string>
+    <string name="flash_off">Flash off</string>
+    <string name="flash_on">Flash on</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_select">No Select</string>
+    <string name="switch_flash">Switch flash</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="picture_taken">Picture taken</string>
+</resources>
